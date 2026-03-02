@@ -21,7 +21,7 @@ Sebuah sistem pemantauan CCTV real-time berbasis web untuk Kota A. Aplikasi ini 
 
 ## Cara Menjalankan Aplikasi
 1. Clone atau unduh repositori ini ke komputer Anda.
-2. Buka folder proyek (`CCTV FINAL`).
+2. Buka folder proyek (`CCTV WEB`).
 3. Anda cukup melakukan klik ganda (double click) pada file `index.html` untuk membukanya di peramban web default Anda.
 
 ## Konfigurasi CCTV / URL Stream
